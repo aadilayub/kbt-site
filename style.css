@@ -2,9 +2,13 @@
     --red: #d12028;
 }
 
+p { font-size: 18px; }
+h1, h2, h3 { font-size: 24px; }
+
 /* to prevent horizontal scroll on mobile */
 body {
     max-width: 100vw;
+    font-family: 'Inter', sans-serif;
 }
 
 header {
@@ -27,4 +31,11 @@ header .title {
     color: var(--red);
     
     margin-left: 18px;
+}
+ 
+main {
+    padding: 1.5em;
+    font-size: 18px;
+    background: var(--red);
+    color: white;
 }

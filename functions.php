@@ -5,3 +5,5 @@ function kbt_add_styles() {
 }
 
 add_action( 'wp_enqueue_scripts', 'kbt_add_styles' );
+
+add_theme_support('post_thumbnails');

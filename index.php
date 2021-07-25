@@ -2,7 +2,7 @@
 
 <main>
     <section class="hero">
-        <p>Karachi Bachao Tehreek is a campaign to end the demolition of Karachi's working class settlements and markets. </p>
+        <p>Karachi Bachao Tehreek is a campaign to end the demolition of Karachi's working class settlements and markets.</p>
     </section>
 </main>
 

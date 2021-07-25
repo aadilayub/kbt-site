@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
 <main>
-    <div class="hero">
+    <section class="hero">
         <p>Karachi Bachao Tehreek is a campaign to end the demolition of Karachi's working class settlements and markets. </p>
-    </div>
+    </section>
 </main>
 
 <?php get_footer(); ?>

@@ -1,3 +1,6 @@
+@import 'normalize';
+@import url('https://rsms.me/inter/inter.css');
+
 :root {
     --red: #d12028;
 }
@@ -42,9 +45,6 @@ header {
     background: var(--red);
     color: white;
 }
-
-@import 'normalize';
-@import url('https://rsms.me/inter/inter.css');
 
 .feature-card {
     width: 80%;

@@ -116,4 +116,13 @@ header .title {
   cursor: pointer;
 }
 
+.footer {
+  background-color: black;
+  padding: 3rem 1.5rem;
+}
+.footer a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -112,3 +112,12 @@ header {
         cursor: pointer;
     }
 }
+
+.footer {
+    background-color: black;
+    padding: 3rem 1.5rem;
+    a:hover {
+        color: white;
+        text-decoration: underline;
+    }
+}

@@ -9,9 +9,6 @@
         <span class="separator">|</span>
         <a href="https://www.youtube.com/channel/UC-uO6vIokN18r84uHwgc5hg">YouTube</a>
     </p>
-    <p>
-      Copyleft 2021 Karachi Bachao Tehreek
-    </p>
   </div>
 </footer>
 

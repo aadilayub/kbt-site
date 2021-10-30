@@ -44,6 +44,24 @@
                     </a>
                 </div>                
             </div>
+            <div class="column is-one-quarter">
+                <div class="card">
+                    <a href="https://karachibachaotehreek.org/docs/gujjar-orangi-nala-housing-survey.pdf">
+                        <header class="card-header">
+                            <p class="card-header-title">Gujjar and Orangi Nala Housing Survey</p>
+                        </header>
+                        <div class="card-content">
+                            <div class="content">
+                                An overview of findings from a 24 question household survey conducted among residents of Gujjar and Orangi Nala over three months.
+                            </div>
+                        </div>
+                        <!-- <footer class="card-footer">
+                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item">Read</a>
+                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item" download>Download</a>
+                        </footer> -->
+                    </a>
+                </div>                
+            </div>
         </div>
 
     </section>

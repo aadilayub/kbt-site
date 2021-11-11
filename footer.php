@@ -3,7 +3,7 @@
     <p class="block">
         <a href="https://twitter.com/StopEvictionKHI">Twitter</a>
         <span class="separator">|</span>
-        <a href="https://instagram.com/karachibachaotehreek">Instagram.com</a>
+        <a href="https://instagram.com/karachibachaotehreek">Instagram</a>
         <span class="separator">|</span>
         <a href="https://fb.com/karachibachaotehreek">Facebook</a>
         <span class="separator">|</span>

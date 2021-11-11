@@ -117,7 +117,7 @@ header .title {
 }
 
 .footer {
-  background-color: black;
+  background-color: var(--red);
   padding: 3rem 1.5rem;
 }
 .footer a:hover {

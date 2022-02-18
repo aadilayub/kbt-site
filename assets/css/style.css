@@ -125,4 +125,8 @@ header .title {
   text-decoration: underline;
 }
 
+#adminmenu #menu-comments {
+  display: none !important;
+}
+
 /*# sourceMappingURL=style.css.map */

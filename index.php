@@ -19,10 +19,6 @@
                                 The Karachi Bachao Tehreek conducted 80 surveys within three settlements located along the Gujjar Nullah to assess the potential impact on the people most vulnerable to the anti-encroachment drive.
                             </div>
                         </div>
-                        <!-- <footer class="card-footer">
-                            <a href="https://karachibachaotehreek.org/docs/gujjar-nala-report.pdf" class="card-footer-item">Read</a>
-                            <a href="https://karachibachaotehreek.org/docs/gujjar-nala-report.pdf" class="card-footer-item" download>Download</a>
-                        </footer> -->
                     </a>
                 </div>                
             </div>
@@ -37,10 +33,6 @@
                                 PDF of the aerial survey commissioned from NED by the Karachi Metropolitan Corporation on which the Gujjar Nullah demolitions are based.
                             </div>
                         </div>
-                        <!-- <footer class="card-footer">
-                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item">Read</a>
-                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item" download>Download</a>
-                        </footer> -->
                     </a>
                 </div>                
             </div>
@@ -55,10 +47,6 @@
                                 An overview of findings from a 24 question household survey conducted among residents of Gujjar and Orangi Nala over three months.
                             </div>
                         </div>
-                        <!-- <footer class="card-footer">
-                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item">Read</a>
-                            <a href="https://karachibachaotehreek.org/docs/demolitions-map.pdf" class="card-footer-item" download>Download</a>
-                        </footer> -->
                     </a>
                 </div>                
             </div>

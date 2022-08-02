@@ -8,6 +8,8 @@
         <a href="https://fb.com/karachibachaotehreek">Facebook</a>
         <span class="separator">|</span>
         <a href="https://www.youtube.com/channel/UC-uO6vIokN18r84uHwgc5hg">YouTube</a>
+        <span class="separator">|</span>
+        <a rel="me" href="https://sunbeam.city/@karachibachaotehreek">Mastodon</a>
     </p>
   </div>
 </footer>

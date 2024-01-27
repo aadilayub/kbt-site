@@ -293,6 +293,11 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/paragraph": {
+				"typography": {
+					"fontWeight": "300"
+				}
+			},
 			"core/comment-author-name": {
 				"elements": {
 					"link": {
